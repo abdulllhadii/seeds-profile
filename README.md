@@ -14,7 +14,7 @@ A responsive React-based teacher profile page for the **Seeds platform**, which 
 
 ## 🧑‍🏫 Sample Teacher Profile
 
-**Name**: Hamdan bin Khalid  
+**Name**: Sheikh Haitham
 **Subjects**: Mathematics, Arabic, Qur’an  
 **Experience**: 10+ years  
 **Specialization**: Tajweed and Qur’an memorization  
